@@ -1,5 +1,5 @@
 # Python for DSAI
-
+### this use to be a save data for student, Ati, for coding along lecture
 This is the repository for the course Python for DSAI at Asian Institute of Technology.
 
 Some resource worth mentioning:
